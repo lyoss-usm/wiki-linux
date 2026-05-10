@@ -1,24 +1,21 @@
-# [Nombre del proyecto CAMBIAR] ![](https://img.shields.io/badge/estado-activo-green) ![](https://img.shields.io/github/license/lyoss-usm/NOMBRE_DEL_REPOSITORIO-CAMBIAR)
+# [Wiki Linux] ![](https://img.shields.io/badge/estado-activo-green) ![](https://img.shields.io/github/license/lyoss-usm/wiki-linux)
 
-Pequeña descripción del proyecto..
+Este es el repositorio oficial de la Wiki Linux de Lyoss. Propuesta para crear una "Wiki" "moderna" e interactiva.
 
 ## Seguimiento
-- Puedes seguir el progreso del proyecto en [GitHub Projects](https://link-de-gh-projects-CAMBIAR.com).
-- Para reportar problemas o sugerencias, visita [GitHub Issues](https://link-de-gh-issues-CAMBIAR.com).
-- Documentación adicional disponible en [GitHub Wiki](https://link-de-gh-wiki-CAMBIAR.com). (SOLO SI EL PROYECTO TIENE WIKI)
+- Puedes seguir el progreso del proyecto en [GitHub Projects](https://github.com/lyoss-usm/wiki-linux/projects).
+- Para reportar problemas o sugerencias, visita [GitHub Issues](https://github.com/lyoss-usm/wiki-linux/issues).
 
 ## Requisitos
-- [Requisito 1](https://enlace-al-requisito.com) (>= 1.0.0)
-- [Requisito 2](https://enlace-al-requisito.com) (>= 2.0.0)
 
 ## Quick Start
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/lyoss-usm/<nombre-del-proyecto>.git
+    git clone https://github.com/lyoss-usm/wiki-linux.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd <nombre-del-proyecto>
+    cd wiki-linux
     ```
 3. Instala las dependencias:
     ```bash
