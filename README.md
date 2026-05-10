@@ -1,4 +1,4 @@
-# [Wiki Linux] ![](https://img.shields.io/badge/estado-activo-green) ![](https://img.shields.io/github/license/lyoss-usm/wiki-linux)
+# Wiki Linux ![](https://img.shields.io/badge/estado-activo-green) ![](https://img.shields.io/github/license/lyoss-usm/wiki-linux)
 
 Este es el repositorio oficial de la Wiki Linux de Lyoss. Propuesta para crear una "Wiki" "moderna" e interactiva.
 
